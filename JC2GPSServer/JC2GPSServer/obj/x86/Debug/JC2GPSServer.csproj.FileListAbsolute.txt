@@ -24,3 +24,16 @@ C:\Users\Public\Documents\JC2GPSServer\JC2GPSServer\obj\x86\Debug\GenerateResour
 C:\Users\Public\Documents\JC2GPSServer\JC2GPSServer\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Public\Documents\JC2GPSServer\JC2GPSServer\obj\x86\Debug\JC2 GPS Server.exe.manifest
 C:\Users\Public\Documents\JC2GPSServer\JC2GPSServer\obj\x86\Debug\JC2 GPS Server.application
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\bin\Debug\JC2 GPS Server.exe.manifest
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\bin\Debug\JC2 GPS Server.application
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\bin\Debug\JC2 GPS Server.exe
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\bin\Debug\JC2 GPS Server.pdb
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Debug\JC2GPSServer.Form1.resources
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Debug\JC2GPSServer.Properties.Resources.resources
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Debug\JC2 GPS Server.exe.manifest
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Debug\JC2 GPS Server.application
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Debug\JC2 GPS Server.exe
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Debug\JC2 GPS Server.pdb

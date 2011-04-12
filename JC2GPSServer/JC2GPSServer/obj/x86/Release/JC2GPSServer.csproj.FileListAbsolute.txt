@@ -11,3 +11,5 @@ C:\Users\Public\Documents\JC2GPSServer\JC2GPSServer\obj\x86\Release\JC2 GPS Serv
 C:\Users\Public\Documents\JC2GPSServer\JC2GPSServer\obj\x86\Release\JC2 GPS Server.application
 C:\Users\Public\Documents\JC2GPSServer\JC2GPSServer\obj\x86\Release\JC2 GPS Server.exe
 C:\Users\Public\Documents\JC2GPSServer\JC2GPSServer\obj\x86\Release\JC2 GPS Server.pdb
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Release\JC2 GPS Server.exe
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Release\JC2 GPS Server.pdb

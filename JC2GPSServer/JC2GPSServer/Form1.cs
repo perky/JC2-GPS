@@ -89,10 +89,10 @@ namespace JC2GPSServer
             yval = (yval + 16384) * 0.0623f;
             zval -= 200;
 
-            xlabel.Text = xval.ToString();
-            ylabel.Text = yval.ToString();
-            zlabel.Text = zval.ToString();
-            speedlabel.Text = velocity.ToString();
+            xlabel.Text = Math.Floor(xval).ToString();
+            ylabel.Text = Math.Floor(yval).ToString();
+            zlabel.Text = Math.Floor(zval).ToString();
+            speedlabel.Text = Math.Floor(velocity).ToString();
         }
 
         private void broadcast(object sender, System.Timers.ElapsedEventArgs e)
