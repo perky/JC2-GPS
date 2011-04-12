@@ -1,0 +1,17 @@
+//
+//  main.m
+//  Just Cause 2 GPS
+//
+//  Created by Luke Perkin on 09/04/2011.
+//  Copyright 2011 MetFilm. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+int main(int argc, char *argv[])
+{
+    NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
+    int retVal = UIApplicationMain(argc, argv, nil, nil);
+    [pool release];
+    return retVal;
+}
