@@ -100,7 +100,7 @@ namespace JC2GPSServer
             IPAddress ip = IPAddress.Parse("192.168.1.66");
             IPEndPoint endPoint = new IPEndPoint(ip, 49898);
 
-            String message = xval.ToString() + "," + yval.ToString() + "," + Math.Floor(zval).ToString() + "," + Math.Floor(velocity).ToString();
+            String message = Math.Floor(xval).ToString() + "," + Math.Floor(yval).ToString() + "," + Math.Floor(zval).ToString() + "," + Math.Floor(velocity).ToString();
             Byte[] bytes = Encoding.UTF8.GetBytes(message);
             m_socket.SendTo(bytes, endPoint);
         }

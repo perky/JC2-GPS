@@ -16,7 +16,7 @@
  "Apple Software"), to use, reproduce, modify and redistribute the Apple
  Software, with or without modifications, in source and/or binary forms;
  provided that if you redistribute the Apple Software in its entirety and
- without modifications, you must retain this notice and the following
+ without modifi/Users/lukeperkin/Dropbox/Projects/JC2 GPS/JC2 GPS iOS/Just Cause 2 GPS/TilingView.mcations, you must retain this notice and the following
  text and disclaimers in all such redistributions of the Apple Software.
  Neither the name, trademarks, service marks or logos of Apple Inc. may
  be used to endorse or promote products derived from the Apple Software
@@ -66,6 +66,7 @@
         
         player = [[[PlayerPin alloc] initWithFrame:CGRectMake(0, 0, size.width, size.height)] autorelease];
         [self addSubview:player];
+        player.tileView = self;
     }
     return self;
 }
@@ -117,6 +118,13 @@
             }
         }
     }
+    
+    if (player.playerPathSize > 2) {
+        CGContextSetLineWidth(context, 2.0);
+        [[UIColor redColor] set];
+        
+        CGContextStrokeLineSegments(context, player.playerPath, player.playerPathSize-1);
+    }
 }
 
 - (UIImage *)tileForScale:(CGFloat)scale row:(int)row col:(int)col
@@ -128,7 +136,7 @@
     if (scale == 1.0) {
         scaleFolder = @"";
     } else {
-        scaleFolder = @"512/";
+        scaleFolder = @"512";
     }
     
     NSString *tileName = [NSString stringWithFormat:@"%@x%dy%d", scaleFolder, col+1, row+1];

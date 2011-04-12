@@ -13,3 +13,14 @@ C:\Users\Public\Documents\JC2GPSServer\JC2GPSServer\obj\x86\Release\JC2 GPS Serv
 C:\Users\Public\Documents\JC2GPSServer\JC2GPSServer\obj\x86\Release\JC2 GPS Server.pdb
 C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Release\JC2 GPS Server.exe
 C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Release\JC2 GPS Server.pdb
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\bin\Release\JC2 GPS Server.exe.manifest
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\bin\Release\JC2 GPS Server.application
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\bin\Release\JC2 GPS Server.exe
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\bin\Release\JC2 GPS Server.pdb
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Release\JC2GPSServer.Form1.resources
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Release\JC2GPSServer.Properties.Resources.resources
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Release\JC2 GPS Server.exe.manifest
+C:\Users\Luke\Dropbox\Projects\JC2 GPS\JC2GPSServer\JC2GPSServer\obj\x86\Release\JC2 GPS Server.application
